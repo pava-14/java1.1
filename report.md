@@ -7,10 +7,10 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/pava-14/java1.1/issues/1
-* https://github.com/pava-14/java1.1/issues/2
-* https://github.com/pava-14/java1.1/issues/3
-* https://github.com/pava-14/java1.1/issues/4
+* Синтаксическая ошибка в правилах оформления баг-репортов:  https://github.com/pava-14/java1.1/issues/1
+* Ключ из второй строки списка валидных ключей не проходит валидацию: https://github.com/pava-14/java1.1/issues/2
+* Ключ из пятой строки списка валидных ключей не проходит валидацию: https://github.com/pava-14/java1.1/issues/3
+* Ключ из пятой строки списка невалидных ключей проходит валидацию: https://github.com/pava-14/java1.1/issues/4
 
 ## Описание процесса тестирования
 
